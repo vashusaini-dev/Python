@@ -63,11 +63,4 @@ A **class** defines what an object should look like, and an **object** is create
 | Car    | Volvo, Audi, Toyota    |
 
 When you create an object from a class, it inherits all the variables and functions defined inside that class.
-
 ---
-
-### In the next chapters, you will learn how to:
-- Create a class  
-- Create objects  
-- Access class members  
-- And much more
